@@ -1,0 +1,6 @@
+class task
+
+clone
+add
+commit
+push
